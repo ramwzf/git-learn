@@ -2,3 +2,4 @@ init
 a -> b
 b -> c
 from bob
+from alice
